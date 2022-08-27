@@ -19,3 +19,8 @@ the_impaint_model.ipynb - contains the code for the task, the python file also c
 painted_images - the images that have been inpainted with the above code.
 
 task 3.txt file contains the learnings as well as the alternative implementation.
+
+ORIGNAL FILE
+![Levi_s ads over the years - CBS News](https://user-images.githubusercontent.com/97751164/187042266-2f7c83bb-1010-4b0c-9f79-bca6ae33c3d6.jpg)
+
+INPAINTED FILE
