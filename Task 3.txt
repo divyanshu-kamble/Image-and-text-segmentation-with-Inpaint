@@ -1,0 +1,13 @@
+
+Implementation -
+1. Implemnted the Mask R-CNN transfer learning model for the image segmentation.
+2. Used the Keras_ocr model for text segmentation 
+3. The use of opencv impaint for impainting the images.
+4. I found that there are some issues with the Pixellib library and requires some changes(mentioned in the notebook)
+5. I have learnt about image segmentation and the various use cases in which it could be implemented.
+
+Alternative -
+
+1. You can use the U-Net model for image segmentation as well.
+2. also the pytesseract llibrary can also be used for text segmentation.
+3. flask as well as streamlit can be used to create a web application and Heroku or Docker can be used to deploy the model as well. 
