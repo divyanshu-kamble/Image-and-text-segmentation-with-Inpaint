@@ -1,0 +1,7 @@
+keras-ocr
+tensorflow==2.6.0
+keras==2.6.0
+imgaug
+pillow==8.2.0
+pixellib==0.5.2
+labelme2coco==0.1.2
