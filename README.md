@@ -20,7 +20,9 @@ painted_images - the images that have been inpainted with the above code.
 
 task 3.txt file contains the learnings as well as the alternative implementation.
 
-ORIGNAL FILE
-![Levi_s ads over the years - CBS News](https://user-images.githubusercontent.com/97751164/187042266-2f7c83bb-1010-4b0c-9f79-bca6ae33c3d6.jpg)
 
+![Levi_s ads over the years - CBS News](https://user-images.githubusercontent.com/97751164/187042266-2f7c83bb-1010-4b0c-9f79-bca6ae33c3d6.jpg)
+ORIGNAL FILE
+
+![levis](https://user-images.githubusercontent.com/97751164/187042302-9c456f75-f3a4-41c2-8d0d-e6dfff636ecd.JPG)
 INPAINTED FILE
